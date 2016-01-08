@@ -1,0 +1,24 @@
+{
+  "name": "polymer-test",
+  "authors": [
+    "Jared Tong <hello@jaredtong.com> http://github.com/tongrhj"
+  ],
+  "description": "Playground for Polymer",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "polymer"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  }
+}
